@@ -1,4 +1,4 @@
-Modelo predictivo para ventas de videojuegos
+-Modelo predictivo para ventas de videojuegos
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -Año: 2025
